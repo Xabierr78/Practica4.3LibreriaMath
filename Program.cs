@@ -19,12 +19,12 @@ double redondeo =Math.Round(18.98);
 
 
 
-Console.WriteLine("NUMERO: " + a + System.Environment.NewLine + "El valor absoluto es: " + valorAbsoluto + System.Environment.NewLine + "La potencia es " + potencia
-    + System.Environment.NewLine + "La raiz cuadrada es: " + raizCuadrada + System.Environment.NewLine + "El seno es: " + seno + System.Environment.NewLine + 
-    "El coseno es: " + coseno  + System.Environment.NewLine + "El maximo es: " + maximo +System.Environment.NewLine + "El minimo es: " + minimo 
-    +System.Environment.NewLine + "La parte entera es: " + parteEntera  +System.Environment.NewLine + "El redondeo es: " + redondeo);
+Console.WriteLine("NUMERO: " + a + "\n" + "El valor absoluto es: " + valorAbsoluto + "\n" + "La potencia es " + potencia
+    + "\n" + "La raiz cuadrada es: " + raizCuadrada + "\n" + "El seno es: " + seno + "\n" + 
+    "El coseno es: " + coseno  + "\n" + "El maximo es: " + "\n" + "El minimo es: " + minimo 
+    + "\n" + "La parte entera es: " + parteEntera  + "\n" + "El redondeo es: " + redondeo);
 
-Console.WriteLine(System.Environment.NewLine +"El ejemplo del ejercicio en el .PDF da como resultado un seno y coseno expresado en grados y el math.sin lo expresa en radianes , 2 horas mas tarde lo he conseguido convertir, vaya tela ");
+Console.WriteLine("\n" + "El ejemplo del ejercicio en el .PDF da como resultado un seno y coseno expresado en grados y el math.sin lo expresa en radianes , 2 horas mas tarde lo he conseguido convertir, vaya tela ");
 
 
 
